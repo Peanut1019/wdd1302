@@ -1,0 +1,22 @@
+nav a {
+    text-align: center;
+}
+#hero {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+#hero-msg h1 {
+    text-align: center;
+}
+#hero-msg h4 {
+    text-align: center;
+}
+.button-box {
+    text-align: center;
+}
+.home-grid {
+    text-align: center;
+}
+#background {
+    height: 725px;
+}
